@@ -86,6 +86,7 @@ margin: 0;
 }
 
 .banner-image {
+	clear: both;
 	display: block;
 	width: 100%;
 }
